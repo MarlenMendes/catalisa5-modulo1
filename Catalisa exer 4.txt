@@ -1,0 +1,10 @@
+1 - sair de casa
+2 - fechar a casa
+3 - entrar no carro
+4 - colocar o cinto
+5 - ligar a cchave do carro
+6 - direção transito
+7 - estacionando
+8 - abri o carro
+9 - fecha
+10 - trava a porta
